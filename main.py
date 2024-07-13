@@ -3,11 +3,11 @@ import time
 lyrics_and_times = [
     "Udara mana kini yang kau hirup?",
     "Hujan dimana kini yang kau peluk?",
-    "Dimana pun kau kini, hmm",
+    "Dimana pun kau kini",
     "Rindu tentangmu 'tak pernah pergi",
     "Udara mana kini yang kau hirup?",
     "Hujan dimana kini yang kau peluk?",
-    "Dimana pun kau kini, uh-uuh",
+    "Dimana pun kau kini",
     "Rindu tentangmu 'tak pernah pergi",
     "Rindu tentangmu 'tak pernah pergi"
 ]
