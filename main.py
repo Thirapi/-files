@@ -12,7 +12,7 @@ lyrics_and_times = [
     "Rindu tentangmu 'tak pernah pergi"
 ]
 
-delays = [7, 7, 7, 7, 7, 7, 7, 7]  # Delays in seconds between each line of lyrics
+delays = [7, 7, 7, 7, 7, 7, 7, 7]  #ini delay
 
 def print_lyrics_with_timing():
     start_time = time.time()
